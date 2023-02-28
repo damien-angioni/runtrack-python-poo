@@ -18,7 +18,7 @@ class Produit():
     def affichenom(self):
         return(self.nom)
 
-item1=Produit("Sujama",85)
+item1=Produit("Sujamma",85)
 item2=Produit("Flin",56)
 print(item1.afficher())
 print(item2.afficher())
